@@ -27,7 +27,7 @@ fi
 #crontab -e
 
 # Add the following line to the crontab file:
-#0 19 * * 0 "$1"
+#0 19 * * 0 "$PATH"
 # Once you have added the new entry to the crontab file, it will start running according to the schedule that you specified.
 
 #Here are some of the possible values for the minute, hour, day, month, and weekday fields:
